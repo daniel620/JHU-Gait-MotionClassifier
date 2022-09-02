@@ -1,3 +1,1 @@
-# HAR
-
-Project focused on using gyroscope and accelerometer data from an Apple Watch to predict user movements. Includes all files from project.
+Motion classifier based on data collected from Apple Watch.
